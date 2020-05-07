@@ -63,7 +63,7 @@ module-margin-left = 2
 module-margin-right = 2
 
 font-0 = fixed:pixelsize=10;2
-font-1 = Ubuntu Nerd Font:fontformat=truetype:size=12;3
+font-1 = MesloLGSDZ Nerd Font:fontformat=truetype:size=12;4
 font-2 = siji:pixelsize=10;3
 
 modules-left = dmenu i3 xwindow
@@ -228,7 +228,7 @@ format = <label>
 ;   %percentage-sum% - Cumulative load on all cores
 ;   %percentage-cores% - load percentage for each core
 ;   %percentage-core[1-9]% - load percentage for specific core
-label = ﬙ %percentage%%
+label = ﬙  %percentage%%
 
 [module/memory]
 type = internal/memory
@@ -267,7 +267,7 @@ format = <label>
 ;   %gb_swap_free%
 ;   %gb_swap_used%
 
-label = 異 %percentage_used%%
+label = 異  %percentage_used%%
 
 [module/date]
 type = internal/date
@@ -290,7 +290,7 @@ time-alt = %A, %m, %H:%M
 
 ; Available tags:
 ;   <label> (default)
-format = 祥 <label>
+format = 祥  <label>
 format-background = 
 format-foreground = #ddd
 
@@ -306,10 +306,10 @@ label-foreground =
 type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
-label-volume = 墳 %percentage%%
+label-volume = 墳  %percentage%%
 label-volume-foreground = ${root.foreground}
 
-label-muted = 婢 muted
+label-muted = 婢  muted
 label-muted-foreground = #666
 
 bar-volume-width = 10
