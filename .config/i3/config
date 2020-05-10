@@ -176,6 +176,9 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+# Print Screen 
+bindsym Print exec gnome-screenshot -i
+
 # Remove Borders
 for_window [class="^.*"] border pixel 0
 default_border pixel 
