@@ -40,7 +40,7 @@
 
 ###### Terminal emulator
 
-- [kovidgoyal](https://github.com/kovidgoyal)/[**kitty**](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator [[arch(community):kitty]](https://www.archlinux.org/packages/community/x86_64/kitty/) [[debian:kitty]](https://tracker.debian.org/pkg/kitty)
+- [alacritty](https://github.com/alacritty)/[**alacritty**](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator [[arch(community):alacritty]](https://www.archlinux.org/packages/community/x86_64/alacritty/)
 
 ###### Terminal theme
 
