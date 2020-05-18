@@ -193,6 +193,9 @@ smart_gaps inverse_outer
 # Rounded Borders
 border_radius 3
 
+# Auto Tiling
+exec_always --no-startup-id autotiling
+
 # Alt + Tab
 exec_always alttab
 
