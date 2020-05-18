@@ -32,6 +32,10 @@
 - [polybar](https://github.com/polybar)/[**polybar**](https://github.com/polybar/polybar) - A fast and easy-to-use status bar. [[arch(aur):polybar]](https://aur.archlinux.org/packages/polybar/) [[debian:polybar]](https://tracker.debian.org/pkg/polybar)
 - [davatorium](https://github.com/davatorium)/[**rofi**](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement. [[arch(community):rofi]](https://www.archlinux.org/packages/community/x86_64/rofi/) [[debian:rofi]](https://tracker.debian.org/pkg/rofi)
 
+###### Tiling Utilities
+
+- [nwg-piotr](https://github.com/nwg-piotr)/[**autotiling**](https://github.com/nwg-piotr/autotiling) Script for sway and i3 to automatically switch the horizontal / vertical window split orientation [[arch(aur):autotiling]](https://aur.archlinux.org/packages/autotiling)
+
 ###### Wallpaper
 
 - [finalrewind](https://git.finalrewind.org/)/[**fehbg**](https://git.finalrewind.org/feh) - imlib2 based image viewer. [[arch(extra):feh]](https://www.archlinux.org/packages/extra/x86_64/feh/)
