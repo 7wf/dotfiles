@@ -46,7 +46,7 @@ margin-bottom = 5
 width = 100%
 height = 24
 
-bottom = true
+bottom = false
 
 radius = 0.0
 
@@ -56,8 +56,8 @@ foreground = ${colors.foreground}
 border-size = 0
 border-color = #00000000
 
-padding-left = 0.5
-padding-right = 0.5
+padding-left = 0
+padding-right = 0 
 
 module-margin-left = 2
 module-margin-right = 2
@@ -66,9 +66,9 @@ font-0 = fixed:pixelsize=10;3
 font-1 = MesloLGSDZ Nerd Font:fontformat=truetype:size=12;3
 font-2 = siji:pixelsize=10;3
 
-modules-left = dmenu i3 xwindow
-modules-center = 
-modules-right = memory cpu pulseaudio date 
+modules-left = i3 xwindow
+modules-center =  
+modules-right = memory cpu pulseaudio date
 
 tray-position = right
 tray-padding = 2
