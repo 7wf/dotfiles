@@ -46,19 +46,11 @@
 
 - [alacritty](https://github.com/alacritty)/[**alacritty**](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator [[arch(community):alacritty]](https://www.archlinux.org/packages/community/x86_64/alacritty/)
 
-###### Terminal theme
-
-- [dexpota](https://github.com/dexpota)/[**kitty-themes**](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal :heart_eyes_cat: [[kitty-themes(master)/themes]](https://github.com/dexpota/kitty-themes/tree/master/themes)
 
 ###### Shell
 
-- [**zsh**](git://git.code.sf.net/p/zsh/code) - A very advanced and programmable command interpreter (shell) for UNIX [[github(mirror):zsh-users/zsh]](https://github.com/zsh-users/zsh) [[arch(extra):zsh]](https://www.archlinux.org/packages/extra/x86_64/zsh/) [[debian:zsh]](https://tracker.debian.org/pkg/zsh)
-- [ohmyzsh](https://github.com/ohmyzsh)/[**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration. [[zsh:install-script]](https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
+- [fish-shell](https://github.com/fish-shell)/[**fish-shell**](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. [[arch(community):fish]](https://www.archlinux.org/packages/community/x86_64/fish/) [[debian:fish]](https://tracker.debian.org/pkg/fish)
 
 ###### Shell prompt
 
-- [denysdovhan](https://github.com/denysdovhan)/[**spaceship-prompt**](https://github.com/denysdovhan/spaceship-prompt) - :rocket: :star: A Zsh prompt for Astronauts [[spaceship-prompt/README.md#installing]](https://github.com/denysdovhan/spaceship-prompt/blob/master/README.md#installing)
-
-###### Shell Plugins
-
-- [zsh-users](https://github.com/zsh-users)/[**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh [[zsh-autosuggestions/INSTALL.md#installation]](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#installation)
+- [starship](https://github.com/starship)/[**starship**](https://github.com/starship/starship) :comet::milky_way: The minimal, blazing-fast, and infinitely customizable prompt for any shell! [[starship.rs]](https://starship.rs)
