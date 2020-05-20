@@ -1,20 +1,5 @@
 ### dotfiles
 
-#### Screenshots
-
-##### Applications
-
-![Firefox Screenshot](https://cdn.discordapp.com/attachments/543459282562318347/708412563074842674/Screenshot_from_2020-05-08_17-17-51.png)
-
-##### Terminal
-
-![Terminal Screenshot](https://media.discordapp.net/attachments/543459282562318347/708214260181893190/Screenshot_from_2020-05-08_04-08-05.png)
-
-> #### Wallpaper Image
-> 
-> - [unsplash](https://unsplash.com)/[**tish_harris**](https://unsplash.com/@tish_harris) - Waves coming in of the Oregon Coast (Oregon) [[image]](https://unsplash.com/photos/kzIViWbBu_M)
-> 
-
 #### Packages
 
 ##### Desktop
