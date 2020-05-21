@@ -1,6 +1,6 @@
 ### dotfiles
 
-![Screenshot](https://media.discordapp.net/attachments/543459282562318347/713033376386252840/Screenshot_from_2020-05-21_11-19-32.png?width=792&height=634)
+![Screenshot](https://media.discordapp.net/attachments/543459282562318347/713033376386252840/Screenshot_from_2020-05-21_11-19-32.png)
 
 > - [Wallpaper Art](https://twitter.com/MikaPikaZo/status/851742789566029824) by Mika Pikazo [[pixiv(1039353)]](https://www.pixiv.net/en/users/1039353) [[twitter(@MikaPikaZo)]](https://twitter.com/MikaPikaZo)
 
