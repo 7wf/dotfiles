@@ -4,6 +4,9 @@ set fish_greeting
 # Yarn binaries 
 set PATH $PATH:(yarn global bin)
 
+# Python aliases
+alias "py"="python"
+
 # Text editor 
 set -Ux EDITOR nvim
 
