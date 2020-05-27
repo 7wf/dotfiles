@@ -196,9 +196,6 @@ border_radius 3
 # Auto Tiling
 exec_always --no-startup-id autotiling
 
-# Alt + Tab
-exec_always alttab
-
 # Wallpaper
 exec --no-startup-id $HOME/.fehbg &
 
