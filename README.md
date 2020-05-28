@@ -14,7 +14,7 @@
 
 ###### Window Manager
 
-- [resolved](https://github.com/resloved)/[**i3**](https://github.com/resloved/i3) - :black_square_button: — Rounded i3-gaps  [[arch(aur):i3-gaps-rounded]](https://aur.archlinux.org/packages/i3-gaps-rounded-git/)
+- [Airblader](https://github.com/Airblader)/[**i3**](https://github.com/Airblader/i3) - i3-gaps – i3 with more features [[arch(community):i3-gaps]](https://archlinux.org/packages/community/x86_64/i3-gaps)
 
 ###### Widgets
 
