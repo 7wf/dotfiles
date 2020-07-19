@@ -44,7 +44,7 @@ margin-bottom = 5
 
 [bar/top]
 width = 100%
-height = 26
+height = 28
 
 bottom = true
 
@@ -62,13 +62,15 @@ padding-right = 0
 module-margin-left = 2
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=10;3
-font-1 = MesloLGSDZ Nerd Font:fontformat=truetype:size=12;3
+font-0 = Roboto:pixelsize=10;3
+font-1 = MesloLGM Nerd Font:fontformat=truetype:size=12;3
 font-2 = siji:pixelsize=10;3
+
+fixed-center = true
 
 modules-left = i3 xwindow
 modules-center =  
-modules-right = memory cpu pulseaudio date
+modules-right = memory cpu date
 
 tray-position = right
 tray-padding = 2
@@ -76,7 +78,7 @@ tray-background = ${colors.background-transparent}
 
 cursor-click = pointer
 cursor-scroll = ns-resize
-
+    
 [module/xwindow]
 type = internal/xwindow
 
@@ -156,7 +158,7 @@ ws-icon-default = 5+
 ; NOTE: Icon will be available as the %icon% token inside label-*
 
 ; Available tags:
-;   <label-state> (default) - gets replaced with <label-(focused|unfocused|visible|urgent)>
+;   <label-state> (default) - gets replaced with <label-(fcused|unfocused|visible|urgent)>
 ;   <label-mode> (default)
 format = <label-state> <label-mode>
 
@@ -329,4 +331,4 @@ bar-volume-empty = ─
 bar-volume-empty-font = 2
 bar-volume-empty-foreground = ${colors.foreground-alt}
 
-; vim:ft=dosini
+; vim:ft=dosinio
