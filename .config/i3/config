@@ -30,6 +30,9 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
+# Volume Icon
+exec --no-startup-id volumeicon
+
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -196,12 +199,11 @@ smart_gaps inverse_outer
 # Auto Tiling
 exec_always --no-startup-id autotiling
 
-# Alt + Tab
-exec_always alttab
-
 # Wallpaper
 exec --no-startup-id $HOME/.fehbg &
 
-# Status Bar
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh &
+# Compositor
 exec_always --no-startup-id picom --config $HOME/.config/picom.conf
+
+# Top Bar
+exec_always --no-startup-id exec $HOME/.config/polybar/launch.sh &
