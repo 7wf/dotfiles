@@ -1,5 +1,9 @@
 ### dotfiles
 
+![Screenshot](https://cdn.discordapp.com/attachments/736585495340908594/736585516077809734/Screenshot_from_2020-07-25_11-06-02.png)
+
+> [Wallpaper Art](https://www.pixiv.net/en/artworks/72354736) by 7nu [twitter(@_7nu_)](https://twitter.com/_7nu_) [pixiv(6117801)](https://www.pixiv.net/en/users/6117801)
+
 #### Packages
 
 ##### Desktop
