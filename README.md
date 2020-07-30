@@ -10,7 +10,7 @@
 
 ###### Compositor
 
-- [yshui](https://github.com/yshui)/[**picom**](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork). [[arch(community):picom]](https://www.archlinux.org/packages/community/x86_64/picom/)
+- [yshui](https://github.com/yshui)/[**picom**](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork). [[arch(community):picom]](https://www.archlinux.org/packages/community/x86_64/picom/) [[debian:picom]](https://tracker.debian.org/pkg/picom)
 
 ###### Window Manager
 
@@ -23,18 +23,17 @@
 
 ###### Tiling Utilities
 
-- [nwg-piotr](https://github.com/nwg-piotr)/[**autotiling**](https://github.com/nwg-piotr/autotiling) Script for sway and i3 to automatically switch the horizontal / vertical window split orientation [[arch(aur):autotiling]](https://aur.archlinux.org/packages/autotiling)
+- [nwg-piotr](https://github.com/nwg-piotr)/[**autotiling**](https://github.com/nwg-piotr/autotiling) Script for sway and i3 to automatically switch the horizontal / vertical window split orientation [[arch(aur):autotiling]](https://aur.archlinux.org/packages/autotiling) [[pypi:autotiling]](https://pypi.org/project/autotiling)
 
 ###### Wallpaper
 
-- [finalrewind](https://git.finalrewind.org/)/[**fehbg**](https://git.finalrewind.org/feh) - imlib2 based image viewer. [[arch(extra):feh]](https://www.archlinux.org/packages/extra/x86_64/feh/)
+- [finalrewind](https://git.finalrewind.org/)/[**fehbg**](https://git.finalrewind.org/feh) - imlib2 based image viewer. [[arch(extra):feh]](https://www.archlinux.org/packages/extra/x86_64/feh/) [[debian:feh]](https://tracker.debian.org/pkg/feh)
 
 ##### Terminal & Shell
 
 ###### Terminal emulator
 
 - [alacritty](https://github.com/alacritty)/[**alacritty**](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator [[arch(community):alacritty]](https://www.archlinux.org/packages/community/x86_64/alacritty/)
-
 
 ###### Shell
 
